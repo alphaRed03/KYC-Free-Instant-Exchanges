@@ -1,10 +1,11 @@
-# KYC-Free-Instant-Exchanges
+![image](https://github.com/alphaRed03/KYC-Free-Instant-Exchanges/assets/151056871/9cc2496c-6de7-4386-9ed8-79880eb64a14)# KYC-Free-Instant-Exchanges
 Instant Exchanges / Swap Services which do not require identity verification / KYC
 
 Following is a list of Instant Exchanges (also referred to as Swap services) for converting between Bitcoin and some other cryptocurrency.
 
 **KYC-Free Instant Exchanges**
 
+ -[Secureshift](https://secureshift.io/) <-- support both js and non js
 - [Godex](https://godex.io/) <-- Javascript not required
 - [AtomicDEX](https://app.atomicdex.io)
 - [Bity](https://bity.com/exchange)
